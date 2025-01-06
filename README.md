@@ -1,4 +1,4 @@
-<h1 align="center">typescript-eslint</h1>
+ <h1 align="center">typescript-eslint</h1>
 
 <p align="center">Monorepo for the tooling that enables ESLint and Prettier to support TypeScript</p>
 
